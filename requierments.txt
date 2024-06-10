@@ -2,5 +2,7 @@ dnspython==2.6.1
 pymongo==4.6.3
 simple-websocket-server==0.4.4
 SimpleWebSocketServer==0.1.2
-websocket-client==1.6.4
-websockets==11.0.3
+
+websocket==0.2.1
+websocket-client==0.44.0
+websockets==12.0
